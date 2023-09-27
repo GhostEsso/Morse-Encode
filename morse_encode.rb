@@ -35,7 +35,7 @@ char = decode_char('.-')
 puts char
 
 def decode_word(word)
-  letters = word.split(' ')
+  letters = word.split
   decoded_word = ''
   letters.each do |letter|
     decoded_char = decode_char(letter)
