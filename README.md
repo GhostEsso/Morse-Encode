@@ -93,9 +93,11 @@ In order to run this project you need:
 - Twitter: [@TambanaEssohana](https://twitter.com/TambanaEssohana)
 - LinkedIn: [Tambana Essohanam](https://www.linkedin.com/in/essohanam-tambana)
 
-👤 **Author2**
+👤 **Nelofar Zabi**
 
-<!-- FUTURE FEATURES -->
+- GitHub: [@githubhandle](https://github.com/Nelofarzabi)
+- Twitter: [@twitterhandle](https://twitter.com/NelofarZabi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nelofar-zabi-1a1066213)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
